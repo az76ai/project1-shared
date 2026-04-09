@@ -1,0 +1,11 @@
+{
+  "name": "@app/shared",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.ts",
+  "typings": "src/index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
